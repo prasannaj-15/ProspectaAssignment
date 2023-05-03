@@ -1,0 +1,2 @@
+module prospectaAssign2 {
+}
